@@ -6,8 +6,8 @@
   "scripts": {
     "setup": "npm install",
     "clean": "rm -rvf dist",
-    "start": "echo "Stared the module."",
-    "build": "echo "Building the module..."",
+    "start": "echo \"Stared the module.\"",
+    "build": "echo \"Building the module...\"",
   },
   "repository": {
     "type": "git",
