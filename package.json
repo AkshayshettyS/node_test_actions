@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/AkshayshettyS/node_test_actions/issues"
   },
-  "homepage": "https://github.com/AkshayshettyS/node_test_actions#readme"
+  "homepage": "https://github.com/AkshayshettyS/node_test_actions#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
 }
