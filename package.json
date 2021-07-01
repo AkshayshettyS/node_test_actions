@@ -2,10 +2,5 @@
   "name": "action_test",
   "version": "1.0.0",
   "description": "",
-  "scripts": {
-    "setup": "npm install",
-    "clean": "rm -rvf dist",
-    "test": "echo \"Stared the module.\"",
-    "build": "echo \"Building the module...\"",
-  }
+  
 }
