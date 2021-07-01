@@ -1,15 +1,19 @@
 {
-  "name": "action_test",
+  "name": "node_test_actions",
   "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "setup": "npm install",
-    "clean": "rm -rvf dist",
-    "start": "echo \"Stared the module.\"",
-    "build": "echo \"Building the module...\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": ""
-  }
+    "url": "git+https://github.com/AkshayshettyS/node_test_actions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AkshayshettyS/node_test_actions/issues"
+  },
+  "homepage": "https://github.com/AkshayshettyS/node_test_actions#readme"
 }
-
